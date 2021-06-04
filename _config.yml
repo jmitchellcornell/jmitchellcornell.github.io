@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Jim Mitchell
-title: Cornell University Bachelor of Applied Science - BASc, Applied Economics and Mangement
+title: Cornell University Bachelor of Applied Science<br>BASc, Applied Economics and Mangement
 email: jim.r.mitchell@protonmail.com
-website: www.jmitchell-finance.com
+website: www.jmitchellfinance.com
 
 # Dark Mode (true/false/never)
 darkmode: never
