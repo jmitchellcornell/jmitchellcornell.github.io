@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jim Mitchell
-title: Cornell University Bachelor of Applied Science<br>BASc, Applied Economics and Mangement
+title: Cornell University - Bachelor of Applied Science, Applied Economics and Mangement
 email: jim.r.mitchell@protonmail.com
 website: www.jmitchellfinance.com
 
@@ -72,7 +72,7 @@ content:
       - layout: left
         title: Cornell University
         caption: 2018 - 2021
-        sub_title: Bachelor of Applied Science - BASc, Applied Economics and Mangement
+        sub_title: Bachelor of Applied Science, Applied Economics and Mangement
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
