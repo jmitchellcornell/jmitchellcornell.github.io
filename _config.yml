@@ -45,13 +45,15 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Professional Summary
+# about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Detail-oriented Personal Banker with an Applied Economics and Management Bachelors and two years of experieince working with money and customers.  Competent and responsive professional cpable of acting as a liaison betwen customers and the bank.  Recognized for consistently achieving sales targets and cross-selling bank products.
+  Hi, my name's Jim and I'm a recent graduate of Cornell University's Bachelor of Applied Science - BASc, Applied Economics and Mangement program. I am looking for Entry Level employment in the Finance industry.
+  I am most skilled in: <mark>Finance</mark> and <mark>Micro-Economics.</mark>
 
 content:
-  - title: Experience # Title for the section    layout: list # Type of content section (list/text)
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: The Boring Company
