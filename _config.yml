@@ -51,7 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
   Detail-oriented Personal Banker with an Applied Economics and Management Bachelors and two years of experieince working with money and customers.  Competent and responsive professional cpable of acting as a liaison betwen customers and the bank.  Recognized for consistently achieving sales targets and cross-selling bank products.
 
 content:
-  - title: Experience # Title for the section
+  - title: Professional Summary
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Detail-oriented Personal Banker with an Applied Economics and Management Bachelors and two years of experieince working with money and customers.  Competent and responsive professional cpable of acting as a liaison betwen customers and the bank.  Recognized for consistently achieving sales targets and cross-selling bank products.
     layout: list # Type of content section (list/text)
     content:
       - layout: left
