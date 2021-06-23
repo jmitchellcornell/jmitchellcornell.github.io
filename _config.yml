@@ -83,7 +83,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Cumulative GPA: 3.92
              - Honors: 2 Semesters Dean's List, National Society of College Scholars
-   - title: Education # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
