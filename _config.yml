@@ -86,9 +86,13 @@ content:
   - title: Relevant Skills # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraph
-      - Ability to increase branch revenue through innovative sales strategy
-      - Strong foundation of buiilding excellent client rapport to foster satisfaction and loyalty
-      - Experience through managing personal, corporate and small business accounts
+      - Creative and innovative
+      - Proven organizational and leadership skills
+      - Proficiency in MS Office application and other business programming software, ERP and CRM applications
+      - Superior interpersonal, presentation and communication skills
+      - Proven skills
+      - Critical Thinking skills
+      - Proven reliable judgment and decision-making skills
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
