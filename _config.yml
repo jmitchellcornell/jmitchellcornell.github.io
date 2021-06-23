@@ -51,6 +51,13 @@ about_content: | # this will include new lines to allow paragraphs
   Detail-oriented Personal Banker with an Applied Economics and Management Bachelors and two years of experieince working with money and customers. Competent and responsive professional cpable of acting as a liaison betwen customers and the bank. Recognized for consistently achieving sales targets and cross-selling bank products.
 
 content:
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in Finance and Economics some of my other interests and hobbies are:
+      - Investing
+      - Golfing
+      - Gaming  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
